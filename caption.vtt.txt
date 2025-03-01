@@ -1,0 +1,6 @@
+WEBVTT
+
+00:00.000-->00:09.000
+This is Subtitle.
+00:09.000-->00:13.000
+Kitni Pyari hai Titliya !!
